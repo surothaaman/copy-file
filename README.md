@@ -25,10 +25,10 @@ with open("copytxt",'w') as fp1:
 ```
 
 ### OUTPUT:
-```
+
 ![image](https://github.com/surothaaman/copy-file/assets/133313653/aecfb726-a486-4597-9c59-301bb1e4e669)
 ![image](https://github.com/surothaaman/copy-file/assets/133313653/74300d5f-f516-4b30-8c91-46ad8eff8c05)
-```
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
